@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thời Tiết USTH</string>
+    <string name="hello_blank_fragment">Cửa Sổ Mới</string>
+    <string name="usth_weather">Thời Tiết USTH</string>
+    <string name="hot_n_32c_34c">Nóng \n 32C - 34C</string>
+</resources>
